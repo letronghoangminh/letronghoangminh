@@ -10,17 +10,17 @@
 
 
 
-<h3 align="left">Tech Stacks:</h3>
+<h3 align="left">🛠 &nbsp;Tech Stacks:</h3>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=windows&linux=white)
+- ![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=windows&linux=white)
 
 
 ### Stats
