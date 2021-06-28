@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Tech Stacks:</h3>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
@@ -18,7 +18,9 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=windows&linux=white)
 
 
 ### Stats
