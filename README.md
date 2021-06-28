@@ -17,7 +17,7 @@
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=letronghoangminh&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=letronghoangminh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)  
  
 ### Reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/letronghoangminh)
