@@ -26,7 +26,7 @@
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=letronghoangminh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)  
-![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=letronghoangminh&layout=compact&theme=material-palenight&langs_count=10&hide=css,html,pug)
+![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=letronghoangminh&layout=compact&theme=material-palenight&langs_count=10&hide=css,html,pug,ejs,scss)
 
  
 ### 📩 Reach me
