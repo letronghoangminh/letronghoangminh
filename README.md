@@ -26,9 +26,8 @@
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=letronghoangminh&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731)  
-<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=letronghoangminh&layout=compact&theme=material-palenight&langs_count=10" />  \
+![Most used languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=letronghoangminh&layout=compact&theme=material-palenight&langs_count=10)
 
-<br>\
  
 ### 📩 Reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/letronghoangminh) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/psycholog1stzz/)
