@@ -1,4 +1,4 @@
-# Hi there 🐧, I'm Lê Trọng Hoàng Minh! (known as psycholo1st)
+# Hi there 🐧, I'm Lê Trọng Hoàng Minh! (known as psycholog1st)
 ### Amateur Back-end Web Developer, sometimes a Pentester (yeah, i swing the pen and test its ink)
 
 
