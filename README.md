@@ -20,7 +20,7 @@
 
 - ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
 
-- ![Linux](https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&linux=red)
+- ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&linux=red)
 
 
 ## 📊 Stats
