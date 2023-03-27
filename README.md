@@ -1,5 +1,5 @@
 # Hi there 🐧, I'm Lê Trọng Hoàng Minh! (known as psycholog1st)
-### Junior DevOps Engineer, part time CTF player
+### Junior DevOps Engineer, part time Backend Developer (CTF Player occasionally)
 
 
  ## 💻 What I'm doing: 
