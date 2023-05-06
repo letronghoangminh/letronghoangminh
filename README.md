@@ -11,10 +11,10 @@
 
 
  ## 🛠 Tech Stacks:
-
-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-- ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&linux=red)
+ 
+- NestJS
+- Python, you know, for scripting
+- DevOps stuff
 
 
 ## 📊 Stats
@@ -29,4 +29,4 @@
  
 -----
   
-Last Edited on: 30/09/2022
+Last Edited on: 06/05/2022
